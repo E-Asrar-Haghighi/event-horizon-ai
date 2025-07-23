@@ -1,3 +1,5 @@
+![Event Horizon AI Banner](event_horizon_banner.png)
+
 # Event Horizon AI: Multi-Agent Forecasting & Research System
 
 A sophisticated multi-agent AI-powered research and forecasting system that analyzes events, conducts web research, and provides quantitative probability assessments using a crew of specialized AI agents.
