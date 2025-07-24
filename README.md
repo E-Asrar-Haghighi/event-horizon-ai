@@ -113,7 +113,7 @@ The probability forecaster uses a rigorous, step-by-step approach:
 ## 🛠️ Project Structure
 
 ```
-Web Searcher AI Agent/
+event-horizon-ai/
 ├── ai_analyst_crew/
 │   ├── __init__.py
 │   ├── agents.py          # AI agent definitions
